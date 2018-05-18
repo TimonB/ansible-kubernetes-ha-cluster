@@ -13,7 +13,7 @@ yum install python-pip
 ```
 
 
-Install ansible on your manager machine and on your workers
+Install ansible on your manager machine that has ssh access to all the other machines
 
 * You can do: 
 ```
